@@ -123,15 +123,11 @@ Network-Intrusion-Detection-System/
 └── README.md
 
 
+## 👩‍💻 Author
 
-👩‍💻 Author
+**Shreeya Santosh Mane**  
+B.Tech in Artificial Intelligence & Machine Learning  
+DY Patil Agriculture & Technical University, Kolhapur  
 
-Shreeya Santosh Mane
-
-B.Tech Artificial Intelligence & Machine Learning
-
-DY Patil Agriculture & Technical University, Kolhapur
-
-GitHub: https://github.com/shreeyamane
-
-LinkedIn: https://www.linkedin.com/in/shreeyamane
+🐙 GitHub: https://github.com/shreeyamane
+💼 LinkedIn: https://www.linkedin.com/in/shreeya-mane/
