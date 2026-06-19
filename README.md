@@ -121,3 +121,17 @@ Network-Intrusion-Detection-System/
 ├── requirements.txt
 ├── dataset/
 └── README.md
+
+
+
+👩‍💻 Author
+
+Shreeya Santosh Mane
+
+B.Tech Artificial Intelligence & Machine Learning
+
+DY Patil Agriculture & Technical University, Kolhapur
+
+GitHub: https://github.com/shreeyamane
+
+LinkedIn: https://www.linkedin.com/in/shreeyamane
