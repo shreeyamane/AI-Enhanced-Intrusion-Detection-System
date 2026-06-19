@@ -109,7 +109,8 @@ The NSL-KDD dataset is an improved version of the KDD Cup 99 dataset and is wide
 
 ---
 
-## 📂 Project Structure
+
+## 📁 Project Structure
 
 ```text
 Network-Intrusion-Detection-System/
@@ -121,13 +122,15 @@ Network-Intrusion-Detection-System/
 ├── requirements.txt
 ├── dataset/
 └── README.md
-
+```
 
 ## 👩‍💻 Author
 
-**Shreeya Santosh Mane**  
+**Shreeya Santosh Mane**
+
 B.Tech in Artificial Intelligence & Machine Learning  
-DY Patil Agriculture & Technical University, Kolhapur  
+DY Patil Agriculture & Technical University, Kolhapur
 
 🐙 GitHub: https://github.com/shreeyamane
+
 💼 LinkedIn: https://www.linkedin.com/in/shreeya-mane/
